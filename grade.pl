@@ -1,0 +1,2 @@
+:- dynamic(friend/2).
+
